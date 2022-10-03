@@ -37,7 +37,7 @@ tahiya l5oya yassine o simo o saad
         <ol type="I"><li>NOUREDDINE</li><li>YASSINE</li><li>SAAD</li><li>SIMO</li></ol>
         <ul type="square"><li>IM THE BEST</li></ul>
         <dl>
-            <dt>BACK TO AYA</dt>
+            <dt>BACK HOME</dt>
             <dd>YES</dd><dd>NO</dd>
         </dl>
         <details>
